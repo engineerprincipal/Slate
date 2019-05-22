@@ -39,8 +39,8 @@ def FindMatchedArrayPairs(L1):
 
 
 if __name__ == "__main__":
-        a = [35, 4, 7, 3, 32, 9, 73, 5]
-        a = [1,3,2,7,4]
+        '''a = [35, 4, 7, 3, 32, 9, 73, 5]'''
+        '''a = [1,3,2,7,4]'''
         a = [1,2,3,4,5]
         print("a =", a)
         FindMatchedArrayPairs(a)
