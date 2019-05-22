@@ -1,3 +1,4 @@
+#!/Users/yasinh/anaconda3/bin/python3.7
 def FindMatchedArrayPairs(L1):
     s = set()
     MatchPairs = []
@@ -42,6 +43,5 @@ if __name__ == "__main__":
         '''a = [35, 4, 7, 3, 32, 9, 73, 5]'''
         '''a = [1,3,2,7,4]'''
         a = [1,2,3,4,5]
-        a = [int(x) for x in input().split()]
         print("a =", a)
         FindMatchedArrayPairs(a)
