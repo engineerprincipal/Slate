@@ -1,4 +1,4 @@
-#!/Users/yasinh/anaconda3/bin/python3.7
+#!/usr/bin/env python
 def FindMatchedArrayPairs(L1):
     s = set()
     MatchPairs = []
